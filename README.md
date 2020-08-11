@@ -1,3 +1,3 @@
 # The team!
 
-* Ryan Morris
+* Claire Dutto
