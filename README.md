@@ -2,3 +2,6 @@
 
 * Ryan Morris
 * Dmitry Kudryashov
+* Abe Lincoln
+* Bad Robot
+
